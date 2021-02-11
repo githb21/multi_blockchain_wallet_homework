@@ -39,7 +39,7 @@ For this assignment, I have built a wallet using `hd-wallet-derive` that can man
 
 - Use a [block explorer](https://tbtc.bitaps.com/) to watch transactions on the address.
 
-![btc_account](images/btctest_accout_one.PNG)
+![btc_account](images/btctest_account_one.PNG)
 
 ![btc_tx](images/btctest_tx.PNG)
 
