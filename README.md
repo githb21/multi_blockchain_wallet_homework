@@ -35,12 +35,13 @@ For this assignment, I have built a wallet using `hd-wallet-derive` that can man
 
 - Open up a new terminal window inside of `wallet`, then run `python`. Within the Python shell, run `from wallet import *` 
 
-![btctest](images/btc_function.PNG)
+![btctest](images/btc_function.png)
 
 - Use a [block explorer](https://tbtc.bitaps.com/) to watch transactions on the address.
 
-![btc_tx](images/btc_tx.PNG)
+![btc_account](images/btctest_accout-one.PNG)
 
+![btc_tx](images/btctest_tx.PNG)
 
 ### Local PoA Ethereum Transaction
 
